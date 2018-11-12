@@ -1,0 +1,29 @@
+HTML 5
+
+Is a markup language used for structuring and presenting content on 
+the World Wide Webis and the latest evolution of the standard that defines HTML.
+HTML 5 includes detailed processing models to encourage more interoperable implementations,it extends,
+improves and rationalizes the markup available for documents,introduces markup and application programming interfaces (APIs) 
+for complex web applications,
+new elements, attributes,behaviors, and a larger set of technologies 
+that allows the building of more diverse and powerful Web sites and applications.
+
+CSS3
+
+CSS stands for Cascading Style Sheets,CSS 3 is the latest evolution of the Cascading Style Sheets,
+this technology brings features like rounded corners, shadows, gradients, transitions or animations, as well as new layouts 
+like multi-columns, flexible box or grid layouts.
+It can control the layout of multiple web pages all at once
+describes how HTML elements are to be displayed on screen, paper, or in other media
+CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and 
+screen sizes. 
+
+
+JavaScript
+
+Javascript is a dynamic computer programming language,it is lightweight and most commonly used as 
+a part of web pages, whose implementations 
+allow client-side script to interact with the user and ma
+ke dynamic pages,is an interpreted programming language with object-oriented capabilities.
+JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the 
+occurrence of an event,also powerful scripting language, widely used for controlling web page behaviour.
